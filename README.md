@@ -1,2 +1,2 @@
 # freelance_email_template
-A freelance project for an email template.
+Freelance projects for email templates.
